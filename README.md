@@ -1,6 +1,6 @@
 <p align="center"><a href="https://t.me/"><img src="https://thumbs.gfycat.com/AccomplishedSoggyBlackbird-max-1mb.gif" alt="Hello" /></a></p>
 
-<h4 align="center">ᴀʟᴡᴀʏꜱ ᴘʟᴀʏꜱ ᴡɪᴛʜ ʟᴀɴɢᴜᴀɢᴇꜱ🐍 <br> ɪ ʟɪᴋᴇ ᴛᴏ ᴡᴏʀᴋ ᴘʀɪᴠᴀᴛᴇʟʏ 🔏 <br> 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- <br></h4>
+<h4 align="center">ＡＬＷＡＹＳ ＰＬＡＹ ＷＩＴＨ ＬＡＮＧＵＡＧＥＳ🐍 <br> Ｉ ＬＩＫＥ ＴＯ ＷＯＲＫ ＰＲＩＶＡＴＥＬＹ 🔏 <br> 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- <br></h4>
 
 <p align='center'> 
 <a href="https://codepen.io/"><img height="25" src="https://img.shields.io/badge/codepen-green.svg?&style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
@@ -16,10 +16,10 @@
 
 ## ⚔️ ᴀʙᴏᴜᴛ ᴍᴇ : <br>
 
-✔️ 👋 ʜɪ, ɪ’ᴍ @mitthu786 .<br>
-✔️ 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ & ʟɪᴛᴛʟᴇ ʙɪᴛ ɪɴ ʜᴀᴄᴋɪɴɢ ꜱᴛᴜꜰꜰꜱ .<br>
+✔️ 👋 ʜɪ, ɪ’ᴍ Harpreet .<br>
+✔️ 👀 ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴅɪɴɢ & EHICAL ʜᴀᴄᴋɪɴɢ . <br>
 ✔️ 🤠 ɪ’ᴍ ᴀʟʀᴇᴀᴅʏ ᴋɴᴏᴡ ᴄ , ʜᴛᴍʟ , ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ , ʙᴏᴏᴛꜱᴛʀᴀᴘ , ᴍʏꜱQʟ , ᴄꜱꜱ & xᴍʟ . <br>
-✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʜᴘ, ᴘʏᴛʜᴏɴ & ꜱᴏᴍᴇ ᴇᴛʜɪᴄᴀʟ ꜱᴛᴜꜰꜰꜱ .<br>
+✔️ 📝 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ Django, ᴘʏᴛʜᴏɴ & ᴇᴛʜɪᴄᴀʟ ꜱᴛᴜꜰꜰꜱ .<br>
 ✔️ 🤹‍♂️ ꜰᴏʀ ᴄʜɪʟʟ ᴊᴏɪɴ ᴅɪꜱᴄᴏʀᴅ :- <br>
 ✔️ 📧 ᴇ-ᴍᴀɪʟ ᴀᴛ :- mitthu786@protonmail.com <br>
 ✔️ ☎ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ :- <a href="https://t.me/">Telegram</a><br>
